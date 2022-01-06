@@ -9,7 +9,7 @@ Flex properties
 * display: flex | inline-flex;
 * flex-direction: row | column
 * flex-wrap: wrap | nowrap | wrapreverse
-* flex-basis: <length>
+* flex-basis: 'length'
 
 * justify-content: flex-start | flex-end | center
 
@@ -17,7 +17,7 @@ Flex properties
 * align-items: flex-start | flex-end | center
 * align-content: flex-start | flex-end | center
 
-* flex-grow: <number>
-* flex-shrink: <number>
-* flex: <integer>
-* order: <integer>
+* flex-grow: 'number'
+* flex-shrink: 'number'
+* flex: 'integer'
+* order: 'integer'
