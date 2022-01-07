@@ -2,6 +2,7 @@
 
 ## Table of contents 
 * [Flexbox](#flexbox)
+* [Projects](#projects)
 
 ## Flexbox
 Flex properties
@@ -21,3 +22,9 @@ Flex properties
 * flex-shrink: 'number'
 * flex: 'integer'
 * order: 'integer'
+
+## Projects
+Some projects
+
+### frontend simplified
+* css - responsive project
