@@ -1,0 +1,18 @@
+JAVASCRIPTS!
+
+- variables & data types
+- arrays
+- object literals
+- methods for str, arr, obj, etc
+- loops - for, while, for ... of, forEach, map
+- conditionals (if, ternary & switch
+- functions (normal & arrow)
+
+- oop (prototypes & classes)
+- dom selection
+- dom manipulation
+- events
+- basic form validation
+
+// concatenation '' + ''
+// template string `${}, ${}`
